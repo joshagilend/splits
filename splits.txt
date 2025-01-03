@@ -3,3 +3,4 @@ tesla, 50-50, elon, josh
 google, 50-50, larry, zuck
 meta, 50-50, josh, zuck
 apple, 50-50, elon, josh
+microsoft, 50-50, larry, jeff
