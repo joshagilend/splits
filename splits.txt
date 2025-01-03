@@ -1,1 +1,2 @@
 amazon, 50-50, elon, jeff
+tesla, 50-50, elon, josh
